@@ -13,7 +13,7 @@
 
 ## General Information
 Lending club is an consumer finance company which specialises in lending various types of loans to urban customers.
-Based on applicant’s profile, the company has to make decision for loan approval.
+Based on applicantâ€™s profile, the company has to make decision for loan approval.
 Company has to be very careful and risk involved in getting the loan approved from bank.
 loan.csv dataset is using in this project
 
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@https://github.com/ShyamBasa/LendingClubCaseStudy] - feel free to contact me!
 
 
 <!-- Optional -->
